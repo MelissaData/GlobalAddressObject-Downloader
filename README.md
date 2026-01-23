@@ -4,7 +4,7 @@ This is the script that downloads the Global Address Object and related data fil
 
 Please be aware that this object will require about 100GB of hard drive space.
 
-For the latest Melissa Global Address Object release notes, please visit:
+To view the latest Melissa Global Address Object release notes or to subscribe to product notifications, please visit:
 - https://releasenotes.melissa.com/on-premise-api/global-address-object/
 
 
